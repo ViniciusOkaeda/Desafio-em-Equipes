@@ -18,3 +18,27 @@ header{
     height: 70px;
     background-color: white;
 }
+
+main{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+}
+h1{
+    
+    text-align: center;
+}
+h2{
+    
+    text-align: center;
+}
+.footer{
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+}
+.card{
+    width: 300px;
+    margin:10px;
+
+}
