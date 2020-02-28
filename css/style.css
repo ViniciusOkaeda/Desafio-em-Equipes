@@ -15,7 +15,6 @@
 body{
     width: 100%;
     height: 100%;
-    background-color: black;
 }
 header{
     width: 100%;
@@ -46,4 +45,10 @@ header{
 .interact ul{
     list-style-type: none;
     text-decoration: none;
+}
+main{
+    width:100%;
+    height:100%;
+    background-color: gold;
+
 }
