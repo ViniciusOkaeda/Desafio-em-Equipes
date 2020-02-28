@@ -3,9 +3,13 @@
     padding: 0;
 }
 .just{
+    width: 100%;
+    height: 100%;
     justify-content: space-between;
 }
 .flex{
+    width: 100%;
+    height: 100%;
  display: flex;
 }
 body{
@@ -17,4 +21,29 @@ header{
     width: 100%;
     height: 70px;
     background-color: white;
+}
+.menu{
+    width:100%;
+    height:70px;
+    background-color: white;
+}
+.menu img{
+    padding-left: 400px;
+    width:80px;
+    height: 50px;
+}
+.menu h1{
+    padding-top: 20px;
+    font-size: 13px;
+}
+.interact{
+    margin: 0 auto;
+    padding-right: 500px;
+    padding-top: 25px;
+    width: 400px;
+    height:70px;
+}
+.interact ul{
+    list-style-type: none;
+    text-decoration: none;
 }
